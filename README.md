@@ -4,8 +4,8 @@ This is a simple project in spring boot for undestand how works testing
 ## Goals
 
 - [x] Create a simple project in spring boot
-- [X] Create a single crud endpoints
-- [ ] Create a integration test for that endpoint
+- [x] Create a single crud endpoints
+- [x] Create a integration test for that endpoint
 
 ## Run Tests
 
